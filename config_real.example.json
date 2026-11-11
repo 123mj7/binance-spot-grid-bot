@@ -1,0 +1,16 @@
+{
+  "binance": { "api_key": "", "api_secret": "", "testnet": true },
+  "symbols": ["BTC/USDT"],
+  "alloc_per_symbol": 50.0,
+  "initial_buy_usdt": 5.0,
+  "add_buy_usdt": 5.0,
+  "max_adds": 9,
+  "take_profit": 0.03,
+  "drop_trigger": 0.03,
+  "stop_loss_pct": 0.15,
+  "min_notional": 5.0,
+  "slippage_warn_pct": 0.5,
+  "bnb_fee_plan": { "enabled": false, "buy_once_usdt": 5.0, "buy_threshold_usdt": 0.5, "min_free_usdt": 60.0 },
+  "blackswan": { "enabled": true, "btc_crash_pct": 3.0, "vol_spike_x": 2.5, "volume_spike_x": 3.0, "volume_lookback": 24, "pause_hours": 4.0 },
+  "check_interval_sec": 60
+}

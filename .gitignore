@@ -1,0 +1,21 @@
+# 密钥与个人数据 —— 绝不入库
+config_real.json
+live_state_*.json
+live_trades_*.csv
+bnb_fee_state.json
+
+# 运行时
+*.lock
+*.log
+STOP_REAL.txt
+
+# 构建产物
+*.exe
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# 数据缓存
+*.csv
