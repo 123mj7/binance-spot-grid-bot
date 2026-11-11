@@ -100,6 +100,17 @@ pip install pyinstaller
 pyinstaller --onefile --windowed --hidden-import pystray._win32 live_suite.py
 ```
 
+## 支持项目(为爱发电)
+
+如果这个项目对你有帮助, 欢迎在爱发电上请作者喝杯咖啡:
+
+👉 https://ifdian.net/a/jeff0722
+
+合规说明:
+- 仅通过实名平台接受人民币打赏(平台代为完成实名与合规审核);
+- **本项目不接受任何加密货币捐赠**, 请不要向任何加密地址转账;
+- 打赏纯属自愿, 不附带任何付费服务承诺。
+
 ## 参与完善
 
 欢迎 Issues / PR, 中文讨论优先。值得完善的方向:
