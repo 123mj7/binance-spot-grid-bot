@@ -1,4 +1,4 @@
-# 币安现货 DCA 网格机器人(Binance Spot DCA Grid Bot)
+# 币安现货网格机器人(Binance Spot Grid Bot)
 
 经过 **2021–2026 六年数据外样本检验**的朴素基线策略 + 纯实盘一体机(币安真实盘 / 官方测试网)。
 
