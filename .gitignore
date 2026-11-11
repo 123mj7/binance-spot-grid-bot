@@ -19,3 +19,4 @@ __pycache__/
 
 # 数据缓存
 *.csv
+logs/
